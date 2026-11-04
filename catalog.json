@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-04T20:19:41",
+ "generated_at": "2026-11-04T20:41:49",
  "site": {
   "site_name": "Gabriel Barrios Films",
   "site_url": "",
@@ -21,7 +21,41 @@
   ],
   "about_es": "Soy Gabriel Barrios, realizador audiovisual. Desarrollo piezas para marcas, medios y personas: publicidad, promociones, podcasts, contenido digital, producción deportiva y bodas.\n\nMi trabajo incluye proyectos para Movistar, Gloria, 7UP, Alianza Lima TV y Enfocados. Combino criterio cinematográfico con flujos ágiles e inteligencia artificial para entregar contenido que se ve bien y funciona.",
   "about_en": "I'm Gabriel Barrios, a filmmaker. I create work for brands, media and people: advertising, promos, podcasts, digital content, sports production and weddings.\n\nMy work includes projects for Movistar, Gloria, 7UP, Alianza Lima TV and Enfocados. I combine a cinematic eye with agile workflows and artificial intelligence to deliver content that looks great and performs.",
-  "about_image": null
+  "about_image": null,
+  "section_intros": {
+   "showreel": {
+    "es": "Lo mejor de mi trabajo en un solo corte: ritmo, imagen y narrativa al servicio de cada historia.",
+    "en": "The best of my work in a single cut: rhythm, image and storytelling serving each story."
+   },
+   "publicidad": {
+    "es": "",
+    "en": ""
+   },
+   "promociones": {
+    "es": "",
+    "en": ""
+   },
+   "podcast": {
+    "es": "",
+    "en": ""
+   },
+   "reels": {
+    "es": "",
+    "en": ""
+   },
+   "alianza": {
+    "es": "",
+    "en": ""
+   },
+   "bodas": {
+    "es": "",
+    "en": ""
+   },
+   "otros": {
+    "es": "",
+    "en": ""
+   }
+  }
  },
  "categories": [
   {

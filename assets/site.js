@@ -157,8 +157,11 @@
 
   function sectionHTML(sec, items, num) {
     var txt = t('sec')[sec.id];
+    var intros = (catalog.site || {}).section_intros || {};
+    var intro = intros[sec.id] && typeof intros[sec.id][lang] === 'string' ? intros[sec.id][lang] : txt[2];
     var head = '<div class="section-top reveal"><div><div class="eyebrow">' + pad(num) + ' / ' + esc(txt[0]) +
-      '<span class="count">' + items.length + ' ' + (items.length === 1 ? t('project') : t('projects')) + '</span></div><h2>' + txt[1] + '</h2></div><p>' + esc(txt[2]) + '</p></div>';
+      '<span class="count">' + items.length + ' ' + (items.length === 1 ? t('project') : t('projects')) + '</span></div><h2>' + txt[1] + '</h2></div>' +
+      (intro ? '<p>' + esc(intro) + '</p>' : '') + '</div>';
 
     if (sec.id === 'showreel') {
       var main = items[0];
