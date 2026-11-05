@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-04T21:24:39",
+ "generated_at": "2026-11-04T21:26:02",
  "site": {
   "site_name": "Gabriel Barrios Films",
   "site_url": "",
@@ -723,6 +723,37 @@
     "id": "G11JDckPX7c",
     "embed": "https://www.youtube-nocookie.com/embed/G11JDckPX7c?autoplay=1&rel=0&modestbranding=1&playsinline=1",
     "url": "https://www.youtube.com/watch?v=G11JDckPX7c"
+   }
+  },
+  {
+   "id": 28,
+   "slug": "28-luis-advincula",
+   "kind": "video",
+   "category": "podcast",
+   "title": {
+    "es": "LUIS ADVÍNCULA",
+    "en": "LUIS ADVÍNCULA"
+   },
+   "description": {
+    "es": "",
+    "en": ""
+   },
+   "client": "ENFOCADOS",
+   "year": "",
+   "featured": false,
+   "duration": null,
+   "orientation": "horizontal",
+   "cover": {
+    "src": "media/covers/p28.webp?v=6d7579eca6",
+    "sm": "media/covers/p28-sm.webp?v=5dc6722ff8",
+    "w": 1280,
+    "h": 720
+   },
+   "video": {
+    "provider": "youtube",
+    "id": "g5V-xvV9TxM",
+    "embed": "https://www.youtube-nocookie.com/embed/g5V-xvV9TxM?autoplay=1&rel=0&modestbranding=1&playsinline=1",
+    "url": "https://www.youtube.com/watch?v=g5V-xvV9TxM"
    }
   },
   {
